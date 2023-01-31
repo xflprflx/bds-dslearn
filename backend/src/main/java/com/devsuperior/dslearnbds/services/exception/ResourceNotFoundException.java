@@ -1,4 +1,4 @@
-package com.devsuperior.dslearnbds.service.exception;
+package com.devsuperior.dslearnbds.services.exception;
 
 public class ResourceNotFoundException extends RuntimeException {
 	private static final long serialVersionUID = 1L;
